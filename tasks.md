@@ -99,6 +99,17 @@ aliases: [todo-list, task-tracker]
   - Next step: Begin application process
   - Related: [[Driver's License Conversion]]
 
+#### System Setup
+- [ ] **Mobile Access Setup**
+  - Priority: 🟡 Medium
+  - Due: Within 1 week
+  - Options:
+    - [ ] **Obsidian Mobile** (Recommended): Install app, open vault, enable sync
+    - [ ] **GitHub Mobile**: Install app, browse repository, check tasks.md
+    - [ ] **Cloud Storage**: Sync folder to OneDrive/Dropbox, use markdown viewer
+  - Purpose: Check task dashboard and wiki updates on mobile
+  - Related: [[README.md]] (Mobile Access section)
+
 ### 🟢 Low Priority
 
 - [ ] **Wyoming LLC Research**
@@ -128,21 +139,28 @@ aliases: [todo-list, task-tracker]
   - Confirmed no quarterly filings required as Kleinunternehmer
   - Only annual returns needed (income tax, trade tax, VAT)
 
+- [x] **Git Repository Setup** (2026-04-13)
+  - Repository: https://github.com/g-dias-maciel/brain-wiki.git
+  - All wiki files tracked and versioned
+  - README.md with system overview and mobile setup
+  - .gitignore excludes sensitive files and Obsidian cache
+
 ## 📊 Task Statistics
 
 | Status | Count | Percentage |
 |--------|-------|------------|
-| **Total Tasks** | 10 | 100% |
-| **High Priority** | 3 | 30% |
-| **Medium Priority** | 3 | 30% |
-| **Low Priority** | 2 | 20% |
-| **Completed** | 3 | 30% |
+| **Total Tasks** | 12 | 100% |
+| **High Priority** | 3 | 25% |
+| **Medium Priority** | 4 | 33% |
+| **Low Priority** | 2 | 17% |
+| **Completed** | 4 | 33% |
 
 ## 🔄 Update Log
 
 - **2026-04-13**: Initial task dashboard created
 - **2026-04-13**: Added all current business and tax tasks
 - **2026-04-13**: Integrated with existing wiki pages
+- **2026-04-13**: Git repository setup completed and pushed to GitHub
 
 ## 📱 Mobile Access Instructions
 
